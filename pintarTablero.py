@@ -27,3 +27,5 @@ tablero_1000x1000 = colorear_tablero(1000)
 cumple_condicion = verificar_tablero(tablero_1000x1000)
 print(f"El tablero cumple la condición: {cumple_condicion}")
 
+
+#Written by L Delahaye
